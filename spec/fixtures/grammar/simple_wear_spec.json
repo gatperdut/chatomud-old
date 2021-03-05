@@ -1,0 +1,23 @@
+[
+  [
+    "wear 2.tunic",
+    {
+      "simple_wear": {
+        "target": {
+          "word": "tunic",
+          "index": "2"
+        }
+      }
+    }
+  ],
+  [
+    "   wea chainm   ",
+    {
+      "simple_wear": {
+        "target": {
+          "word": "chainm"
+        }
+      }
+    }
+  ]
+]

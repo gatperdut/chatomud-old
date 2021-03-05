@@ -1,0 +1,26 @@
+[
+  [
+    "say I need some strong, dwarven ale!",
+    {
+      "simple_say": {
+        "speech": "I need some strong, dwarven ale!"
+      }
+    }
+  ],
+  [
+    "say        I need some strong, dwarven ale!     ",
+    {
+      "simple_say": {
+        "speech": "I need some strong, dwarven ale!     "
+      }
+    }
+  ],
+  [
+    "sa here I am *** writing a list ~~~*@!!()#!@())!!",
+    {
+      "simple_say": {
+        "speech": "here I am *** writing a list ~~~*@!!()#!@())!!"
+      }
+    }
+  ]
+]

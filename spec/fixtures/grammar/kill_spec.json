@@ -1,0 +1,34 @@
+[
+  [
+    "kill asinius",
+    {
+      "kill": {
+        "target": {
+          "word": "asinius"
+        }
+      }
+    }
+  ],
+  [
+    "   kill 2.wolf",
+    {
+      "kill": {
+        "target": {
+          "word": "wolf",
+          "index": "2"
+        }
+      }
+    }
+  ],
+  [
+    " kill 33.warg      ",
+    {
+      "kill": {
+        "target": {
+          "word": "warg",
+          "index": "33"
+        }
+      }
+    }
+  ]
+]

@@ -1,0 +1,43 @@
+[
+  [
+    "remove tunic",
+    {
+      "remove": {
+        "target": {
+          "word": "tunic"
+        }
+      }
+    }
+  ],
+  [
+    "  rem 2.eyepatch",
+    {
+      "remove": {
+        "target": {
+          "word": "eyepatch",
+          "index": "2"
+        }
+      }
+    }
+  ],
+  [
+    "   remo chainmail   ",
+    {
+      "remove": {
+        "target": {
+          "word": "chainmail"
+        }
+      }
+    }
+  ],
+  [
+    "   remove   backpack   ",
+    {
+      "remove": {
+        "target": {
+          "word": "backpack"
+        }
+      }
+    }
+  ]
+]

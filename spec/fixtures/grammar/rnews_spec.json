@@ -1,0 +1,66 @@
+[
+  [
+    "   rnews  34    ",
+    {
+      "simple_rnews": {
+        "index": "34"
+      }
+    }
+  ],
+  [
+    "   rnews  35.gossipers  123",
+    {
+      "rnews": {
+        "target": {
+          "word": "gossipers",
+          "index": "35"
+        },
+        "index": "123"
+      }
+    }
+  ],
+  [
+    "   rnews  3.board   34    ",
+    {
+      "rnews": {
+        "target": {
+          "word": "board",
+          "index": "3"
+        },
+        "index": "34"
+      }
+    }
+  ],
+  [
+    "rnews 34",
+    {
+      "simple_rnews": {
+        "index": "34"
+      }
+    }
+  ],
+  [
+    "rnews 35.gossipers 3",
+    {
+      "rnews": {
+        "target": {
+          "word": "gossipers",
+          "index": "35"
+        },
+        "index": "3"
+      }
+    }
+  ],
+  [
+    "rnews 3.board 34",
+    {
+      "rnews": {
+        "target": {
+          "word": "board",
+          "index": "3"
+        },
+        "index": "34"
+      }
+    }
+  ]
+]

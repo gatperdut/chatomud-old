@@ -1,0 +1,36 @@
+[
+  [
+    "tell randomadventurer I need some strong, dwarven ale!",
+    {
+      "simple_tell": {
+        "target": {
+          "word": "randomadventurer"
+        },
+        "speech": "I need some strong, dwarven ale!"
+      }
+    }
+  ],
+  [
+    "  tel   self     I need some strong, dwarven ale!     ",
+    {
+      "simple_tell": {
+        "target": {
+          "word": "self"
+        },
+        "speech": "I need some strong, dwarven ale!     "
+      }
+    }
+  ],
+  [
+    "t 3.some_idiot here I am *** writing a list ~~~*@!!()#!@())!!",
+    {
+      "simple_tell": {
+        "target": {
+          "word": "some_idiot",
+          "index": "3"
+        },
+        "speech": "here I am *** writing a list ~~~*@!!()#!@())!!"
+      }
+    }
+  ]
+]

@@ -1,0 +1,47 @@
+[
+  [
+    "   spawn_item cont_01 out_01",
+    {
+      "spawn_item": {
+        "item_template_code": "cont_01",
+        "item_outfitter_code": "out_01"
+      }
+    }
+  ],
+  [
+    "  spawn_item cont_0d1_d out_01_d",
+    {
+      "spawn_item": {
+        "item_template_code": "cont_0d1_d",
+        "item_outfitter_code": "out_01_d"
+      }
+    }
+  ],
+  [
+    "   spawn_i g____1_1 d_d_d  ",
+    {
+      "spawn_item": {
+        "item_template_code": "g____1_1",
+        "item_outfitter_code": "d_d_d"
+      }
+    }
+  ],
+  [
+    "   spawn_i g____1_1 d_d_d  ",
+    {
+      "spawn_item": {
+        "item_template_code": "g____1_1",
+        "item_outfitter_code": "d_d_d"
+      }
+    }
+  ],
+  [
+    "   spawn_i g____1_1 d_d_d     ",
+    {
+      "spawn_item": {
+        "item_template_code": "g____1_1",
+        "item_outfitter_code": "d_d_d"
+      }
+    }
+  ]
+]

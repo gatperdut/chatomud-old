@@ -1,0 +1,7 @@
+class AttributeSet < ApplicationRecord
+  belongs_to :character
+
+  validates :str, :con, :agi, :dex, :int, :wil, :pow, presence: true, numericality: { only_integer: true, greater_than_or_equal_to: 1, less_than_or_equal_to: 100 }
+
+  validates :character, presence: true
+end

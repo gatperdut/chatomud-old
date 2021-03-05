@@ -1,0 +1,76 @@
+[
+  [
+    "   news      ",
+    {
+      "simple_news": ""
+    }
+  ],
+  [
+    "   news  34    ",
+    {
+      "simple_news_page": {
+        "page": "34"
+      }
+    }
+  ],
+  [
+    "   news  35.gossipers    ",
+    {
+      "news": {
+        "target": {
+          "word": "gossipers",
+          "index": "35"
+        }
+      }
+    }
+  ],
+  [
+    "   news  3.board   34    ",
+    {
+      "news_page": {
+        "target": {
+          "word": "board",
+          "index": "3"
+        },
+        "page": "34"
+      }
+    }
+  ],
+  [
+    "news",
+    {
+      "simple_news": ""
+    }
+  ],
+  [
+    "news 34",
+    {
+      "simple_news_page": {
+        "page": "34"
+      }
+    }
+  ],
+  [
+    "news 35.gossipers",
+    {
+      "news": {
+        "target": {
+          "word": "gossipers",
+          "index": "35"
+        }
+      }
+    }
+  ],
+  [
+    "news 3.board 34",
+    {
+      "news_page": {
+        "target": {
+          "word": "board",
+          "index": "3"
+        },
+        "page": "34"
+      }
+    }
+  ]
+]

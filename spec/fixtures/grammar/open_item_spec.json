@@ -1,0 +1,56 @@
+[
+  [
+    "open sack",
+    {
+      "open_item": {
+        "target": {
+          "word": "sack"
+        }
+      }
+    }
+  ],
+  [
+    "  open barrel",
+    {
+      "open_item": {
+        "target": {
+          "word": "barrel"
+        }
+      }
+    }
+  ],
+  [
+    "open 2.barrel   ",
+    {
+      "open_item": {
+        "target": {
+          "word": "barrel",
+          "index": "2"
+        }
+      }
+    }
+  ],
+  [
+    "  open     8.backpack   ",
+    {
+      "open_item": {
+        "target": {
+          "word": "backpack",
+          "index": "8"
+        }
+      }
+    }
+  ],
+  [
+    "  open     8.backpack  . ",
+    {
+      "open_item": {
+        "target": {
+          "word": "backpack",
+          "index": "8"
+        },
+        "ground": ""
+      }
+    }
+  ]
+]

@@ -1,0 +1,58 @@
+[
+  [
+    "unlock chest",
+    {
+      "unlock_item": {
+        "target": {
+          "word": "chest"
+        }
+      }
+    }
+  ],
+  [
+    " unlo  2.chest",
+    {
+      "unlock_item": {
+        "target": {
+          "word": "chest",
+          "index": "2"
+        }
+      }
+    }
+  ],
+  [
+    "    unl  56.wardrobe   ",
+    {
+      "unlock_item": {
+        "target": {
+          "word": "wardrobe",
+          "index": "56"
+        }
+      }
+    }
+  ],
+  [
+    "    unl  56.wardrobe.   ",
+    {
+      "unlock_item": {
+        "target": {
+          "word": "wardrobe",
+          "index": "56"
+        },
+        "ground": ""
+      }
+    }
+  ],
+  [
+    "    unl  56.wardrobe   .",
+    {
+      "unlock_item": {
+        "target": {
+          "word": "wardrobe",
+          "index": "56"
+        },
+        "ground": ""
+      }
+    }
+  ]
+]

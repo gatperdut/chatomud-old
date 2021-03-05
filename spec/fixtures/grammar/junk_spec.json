@@ -1,0 +1,23 @@
+[
+  [
+    "junk pouch",
+    {
+      "junk": {
+        "target": {
+          "word": "pouch"
+        }
+      }
+    }
+  ],
+  [
+    " junk   2.pouch  ",
+    {
+      "junk": {
+        "target": {
+          "word": "pouch",
+          "index": "2"
+        }
+      }
+    }
+  ]
+]

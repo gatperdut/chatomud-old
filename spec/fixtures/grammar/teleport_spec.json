@@ -1,0 +1,37 @@
+[
+  [
+    "teleport uruk 1",
+    {
+      "teleport": {
+        "target": {
+          "word": "uruk"
+        },
+        "room_id": "1"
+      }
+    }
+  ],
+  [
+    "telepo uruk 1 !",
+    {
+      "teleport": {
+        "target": {
+          "word": "uruk"
+        },
+        "room_id": "1",
+        "bang": "!"
+      }
+    }
+  ],
+  [
+    " telepo    uruk   1232   !    ",
+    {
+      "teleport": {
+        "target": {
+          "word": "uruk"
+        },
+        "room_id": "1232",
+        "bang": "!"
+      }
+    }
+  ]
+]

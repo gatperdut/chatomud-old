@@ -1,0 +1,25 @@
+[
+  [
+    "wea eyepatch reye",
+    {
+      "directed_wear": {
+        "target": {
+          "word": "eyepatch"
+        },
+        "slot": "reye"
+      }
+    }
+  ],
+  [
+    "   wear    22.sack    lshoulder   ",
+    {
+      "directed_wear": {
+        "target": {
+          "word": "sack",
+          "index": "22"
+        },
+        "slot": "lshoulder"
+      }
+    }
+  ]
+]

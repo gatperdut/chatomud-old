@@ -1,0 +1,58 @@
+[
+  [
+    "sheath dagger harness",
+    {
+      "directed_sheathe": {
+        "target": {
+          "word": "dagger"
+        },
+        "sheath": {
+          "word": "harness"
+        }
+      }
+    }
+  ],
+  [
+    "  sheath   2.dagger  harness ",
+    {
+      "directed_sheathe": {
+        "target": {
+          "word": "dagger",
+          "index": "2"
+        },
+        "sheath": {
+          "word": "harness"
+        }
+      }
+    }
+  ],
+  [
+    "  sheath   2.longsword 5.harness",
+    {
+      "directed_sheathe": {
+        "target": {
+          "word": "longsword",
+          "index": "2"
+        },
+        "sheath": {
+          "word": "harness",
+          "index": "5"
+        }
+      }
+    }
+  ],
+  [
+    "sheath mace 3.sheath",
+    {
+      "directed_sheathe": {
+        "target": {
+          "word": "mace"
+        },
+        "sheath": {
+          "word": "sheath",
+          "index": "3"
+        }
+      }
+    }
+  ]
+]

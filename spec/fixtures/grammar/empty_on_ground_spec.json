@@ -1,0 +1,33 @@
+[
+  [
+    "empty sack",
+    {
+      "empty_on_ground": {
+        "target": {
+          "word": "sack"
+        }
+      }
+    }
+  ],
+  [
+    "  empty backpack",
+    {
+      "empty_on_ground": {
+        "target": {
+          "word": "backpack"
+        }
+      }
+    }
+  ],
+  [
+    "empty     2.backpack     ",
+    {
+      "empty_on_ground": {
+        "target": {
+          "word": "backpack",
+          "index": "2"
+        }
+      }
+    }
+  ]
+]

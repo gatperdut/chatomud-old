@@ -1,0 +1,42 @@
+[
+  [
+    "lock n",
+    {
+      "lock_door": {
+        "direction": {
+          "north": ""
+        }
+      }
+    }
+  ],
+  [
+    "   lock ea  ",
+    {
+      "lock_door": {
+        "direction": {
+          "east": ""
+        }
+      }
+    }
+  ],
+  [
+    " lock    dow",
+    {
+      "lock_door": {
+        "direction": {
+          "down": ""
+        }
+      }
+    }
+  ],
+  [
+    "  lock up",
+    {
+      "lock_door": {
+        "direction": {
+          "up": ""
+        }
+      }
+    }
+  ]
+]

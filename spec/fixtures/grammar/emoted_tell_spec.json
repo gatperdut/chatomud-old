@@ -1,0 +1,142 @@
+[
+  [
+    "tell 3.person (waving) hello",
+    {
+      "emoted_tell": {
+        "target": {
+          "word": "person",
+          "index": "3"
+        },
+        "emote": [
+          {
+            "emote_text": "waving"
+          }
+        ],
+        "speech": "hello"
+      }
+    }
+  ],
+  [
+    "te    3.person (*chair on her way, almost tipping it over when she approaches to greet ~asinius) maaaate!!",
+    {
+      "emoted_tell": {
+        "target": {
+          "word": "person",
+          "index": "3"
+        },
+        "emote": [
+          {
+            "ref": {
+              "type": "*",
+              "target": {
+                "word": "chair"
+              }
+            }
+          },
+          {
+            "spaces": " "
+          },
+          {
+            "emote_text": "on her way, almost tipping it over when she approaches to greet "
+          },
+          {
+            "ref": {
+              "type": "~",
+              "target": {
+                "word": "asinius"
+              }
+            }
+          }
+        ],
+        "speech": "maaaate!!"
+      }
+    }
+  ],
+  [
+    "t     3.person     (*chair on her way, almost tipping it over when she approaches to greet ~asinius) maaa()()()ate!!**3.word 322.sick",
+    {
+      "emoted_tell": {
+        "target": {
+          "word": "person",
+          "index": "3"
+        },
+        "emote": [
+          {
+            "ref": {
+              "type": "*",
+              "target": {
+                "word": "chair"
+              }
+            }
+          },
+          {
+            "spaces": " "
+          },
+          {
+            "emote_text": "on her way, almost tipping it over when she approaches to greet "
+          },
+          {
+            "ref": {
+              "type": "~",
+              "target": {
+                "word": "asinius"
+              }
+            }
+          }
+        ],
+        "speech": "maaa()()()ate!!**3.word 322.sick"
+      }
+    }
+  ],
+  [
+    "  tell  3.person(    waving    *knife    around)     I    am a drunken    sailor!   ",
+    {
+      "emoted_tell": {
+        "target": {
+          "word": "person",
+          "index": "3"
+        },
+        "emote": [
+          {
+            "spaces": "    "
+          },
+          {
+            "emote_text": "waving    "
+          },
+          {
+            "ref": {
+              "type": "*",
+              "target": {
+                "word": "knife"
+              }
+            }
+          },
+          {
+            "spaces": "    "
+          },
+          {
+            "emote_text": "around"
+          }
+        ],
+        "speech": "I    am a drunken    sailor!   "
+      }
+    }
+  ],
+  [
+    "tell  3.person(waving) hello I am trying to f)=)=fuck this()()() up with bracket)S",
+    {
+      "emoted_tell": {
+        "target": {
+          "word": "person",
+          "index": "3"
+        },
+        "emote": [
+          {
+            "emote_text": "waving"
+          }
+        ],
+        "speech": "hello I am trying to f)=)=fuck this()()() up with bracket)S"
+      }
+    }
+  ]
+]

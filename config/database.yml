@@ -1,0 +1,18 @@
+# Be sure to use new-style password hashing:
+#   http://dev.mysql.com/doc/refman/5.7/en/old-client.html
+
+default: &default
+  adapter: mysql2
+  encoding: utf8
+  pool: 20
+  username: chatomud
+  password: <%= ENV['CM_DATABASE_PASSWORD'] %>
+  socket: /var/run/mysqld/mysqld.sock
+
+development:
+  <<: *default
+  database: chatomud_development
+
+production:
+  <<: *default
+  database: chatomud_production

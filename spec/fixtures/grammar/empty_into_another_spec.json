@@ -1,0 +1,44 @@
+[
+  [
+    "empty sack barrel",
+    {
+      "empty_into_another": {
+        "target": {
+          "word": "sack"
+        },
+        "destination": {
+          "word": "barrel"
+        }
+      }
+    }
+  ],
+  [
+    "  empty backpack 3.bed",
+    {
+      "empty_into_another": {
+        "target": {
+          "word": "backpack"
+        },
+        "destination": {
+          "word": "bed",
+          "index": "3"
+        }
+      }
+    }
+  ],
+  [
+    "empty     2.backpack     3.bed",
+    {
+      "empty_into_another": {
+        "target": {
+          "word": "backpack",
+          "index": "2"
+        },
+        "destination": {
+          "word": "bed",
+          "index": "3"
+        }
+      }
+    }
+  ]
+]

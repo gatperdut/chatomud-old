@@ -1,0 +1,32 @@
+[
+  [
+    "pour     2.goblet  well   ",
+    {
+      "pour_into": {
+        "source": {
+          "word": "goblet",
+          "index": "2"
+        },
+        "target": {
+          "word": "well"
+        }
+      }
+    }
+  ],
+  [
+    "   pour     233.g___obl_et  9.goopile   .  ",
+    {
+      "pour_into": {
+        "source": {
+          "word": "g___obl_et",
+          "index": "233"
+        },
+        "target": {
+          "word": "goopile",
+          "index": "9"
+        },
+        "ground": ""
+      }
+    }
+  ]
+]

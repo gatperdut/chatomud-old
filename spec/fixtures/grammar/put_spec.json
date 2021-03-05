@@ -1,0 +1,76 @@
+[
+  [
+    "put flute case",
+    {
+      "put": {
+        "target": {
+          "word": "flute"
+        },
+        "destination": {
+          "word": "case"
+        }
+      }
+    }
+  ],
+  [
+    "put flute 2.case",
+    {
+      "put": {
+        "target": {
+          "word": "flute"
+        },
+        "destination": {
+          "word": "case",
+          "index": "2"
+        }
+      }
+    }
+  ],
+  [
+    "put 2.flute 219.case",
+    {
+      "put": {
+        "target": {
+          "word": "flute",
+          "index": "2"
+        },
+        "destination": {
+          "word": "case",
+          "index": "219"
+        }
+      }
+    }
+  ],
+  [
+    "put 2.flute 219.case    .",
+    {
+      "put": {
+        "target": {
+          "word": "flute",
+          "index": "2"
+        },
+        "destination": {
+          "word": "case",
+          "index": "219"
+        },
+        "ground": ""
+      }
+    }
+  ],
+  [
+    "put 2.flute 219.case.   ",
+    {
+      "put": {
+        "target": {
+          "word": "flute",
+          "index": "2"
+        },
+        "destination": {
+          "word": "case",
+          "index": "219"
+        },
+        "ground": ""
+      }
+    }
+  ]
+]

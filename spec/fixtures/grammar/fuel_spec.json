@@ -1,0 +1,31 @@
+[
+  [
+    "fuel     22.chimney  lump   ",
+    {
+      "fuel": {
+        "target": {
+          "word": "chimney",
+          "index": "22"
+        },
+        "source": {
+          "word": "lump"
+        }
+      }
+    }
+  ],
+  [
+    "   fuel     233.ch__im_ney  111.coal__   ",
+    {
+      "fuel": {
+        "target": {
+          "word": "ch__im_ney",
+          "index": "233"
+        },
+        "source": {
+          "word": "coal__",
+          "index": "111"
+        }
+      }
+    }
+  ]
+]

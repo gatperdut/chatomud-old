@@ -1,0 +1,24 @@
+[
+  [
+    "pour     2.goblet    ",
+    {
+      "pour": {
+        "source": {
+          "word": "goblet",
+          "index": "2"
+        }
+      }
+    }
+  ],
+  [
+    "   pour     233.g___obl_et    ",
+    {
+      "pour": {
+        "source": {
+          "word": "g___obl_et",
+          "index": "233"
+        }
+      }
+    }
+  ]
+]

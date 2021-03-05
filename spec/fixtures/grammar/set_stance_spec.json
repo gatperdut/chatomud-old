@@ -1,0 +1,26 @@
+[
+  [
+    "set stance frantic",
+    {
+      "set_stance": {
+        "stance": "frantic"
+      }
+    }
+  ],
+  [
+    "   se sta djfijdif",
+    {
+      "set_stance": {
+        "stance": "djfijdif"
+      }
+    }
+  ],
+  [
+    " se   s   frenzy   ",
+    {
+      "set_stance": {
+        "stance": "frenzy"
+      }
+    }
+  ]
+]

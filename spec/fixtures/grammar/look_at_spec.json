@@ -1,0 +1,46 @@
+[
+  [
+    "look asinius",
+    {
+      "look_at": {
+        "target": {
+          "word": "asinius"
+        }
+      }
+    }
+  ],
+  [
+    "look 43.asinius",
+    {
+      "look_at": {
+        "target": {
+          "word": "asinius",
+          "index": "43"
+        }
+      }
+    }
+  ],
+  [
+    "  look torch  .  ",
+    {
+      "look_at": {
+        "target": {
+          "word": "torch"
+        },
+        "ground": ""
+      }
+    }
+  ],
+  [
+    "   look    666.crate  .     ",
+    {
+      "look_at": {
+        "target": {
+          "word": "crate",
+          "index": "666"
+        },
+        "ground": ""
+      }
+    }
+  ]
+]

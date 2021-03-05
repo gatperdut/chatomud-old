@@ -1,0 +1,42 @@
+[
+  [
+    "unlock north",
+    {
+      "unlock_door": {
+        "direction": {
+          "north": ""
+        }
+      }
+    }
+  ],
+  [
+    "  unlock south",
+    {
+      "unlock_door": {
+        "direction": {
+          "south": ""
+        }
+      }
+    }
+  ],
+  [
+    "unlo east   ",
+    {
+      "unlock_door": {
+        "direction": {
+          "east": ""
+        }
+      }
+    }
+  ],
+  [
+    "  unloc     down   ",
+    {
+      "unlock_door": {
+        "direction": {
+          "down": ""
+        }
+      }
+    }
+  ]
+]

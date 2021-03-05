@@ -1,0 +1,31 @@
+[
+  [
+    "fill     2.goblet  well   ",
+    {
+      "fill": {
+        "target": {
+          "word": "goblet",
+          "index": "2"
+        },
+        "source": {
+          "word": "well"
+        }
+      }
+    }
+  ],
+  [
+    "   fill     233.g___obl_et  9.goopile   ",
+    {
+      "fill": {
+        "target": {
+          "word": "g___obl_et",
+          "index": "233"
+        },
+        "source": {
+          "word": "goopile",
+          "index": "9"
+        }
+      }
+    }
+  ]
+]

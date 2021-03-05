@@ -1,0 +1,27 @@
+[
+  [
+    "goto halred",
+    {
+      "go": {
+        "name": "halred"
+      }
+    }
+  ],
+  [
+    " goto   df3 ",
+    {
+      "go": {
+        "name": "df3"
+      }
+    }
+  ],
+  [
+    " goto   thatidiot  ! ",
+    {
+      "go": {
+        "name": "thatidiot",
+        "bang": "!"
+      }
+    }
+  ]
+]

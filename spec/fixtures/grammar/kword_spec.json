@@ -1,0 +1,73 @@
+{
+  "with_index": [
+    [
+      "3.cup",
+      {
+        "word": "cup",
+        "index": "3"
+      }
+    ],
+    [
+      "29.cup",
+      {
+        "word": "cup",
+        "index": "29"
+      }
+    ],
+    [
+      "3.a",
+      {
+        "word": "a",
+        "index": "3"
+      }
+    ],
+    [
+      "29.a",
+      {
+        "word": "a",
+        "index": "29"
+      }
+    ],
+    [
+      "387832728.cup",
+      {
+        "word": "cup",
+        "index": "387832728"
+      }
+    ],
+    [
+      "387832728.d",
+      {
+        "word": "d",
+        "index": "387832728"
+      }
+    ]
+  ],
+  "without_index": [
+    [
+      "cup",
+      {
+        "word": "cup"
+      }
+    ],
+    [
+      "a",
+      {
+        "word": "a"
+      }
+    ],
+    [
+      "dijfoidjasfoijsdu",
+      {
+        "word": "dijfoidjasfoijsdu"
+      }
+    ]
+  ],
+  "badly_formed": [
+    "3.",
+    "33.",
+    ".cup",
+    ".a",
+    "."
+  ]
+}

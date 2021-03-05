@@ -1,0 +1,42 @@
+[
+  [
+    "open north",
+    {
+      "open_door": {
+        "direction": {
+          "north": ""
+        }
+      }
+    }
+  ],
+  [
+    "  open south",
+    {
+      "open_door": {
+        "direction": {
+          "south": ""
+        }
+      }
+    }
+  ],
+  [
+    "open east   ",
+    {
+      "open_door": {
+        "direction": {
+          "east": ""
+        }
+      }
+    }
+  ],
+  [
+    "  open     down   ",
+    {
+      "open_door": {
+        "direction": {
+          "down": ""
+        }
+      }
+    }
+  ]
+]

@@ -1,0 +1,24 @@
+[
+  [
+    "   read  34.juju    ",
+    {
+      "read": {
+        "target": {
+          "word": "juju",
+          "index": "34"
+        }
+      }
+    }
+  ],
+  [
+    "   rea  35.bigtome",
+    {
+      "read": {
+        "target": {
+          "word": "bigtome",
+          "index": "35"
+        }
+      }
+    }
+  ]
+]

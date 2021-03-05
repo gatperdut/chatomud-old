@@ -1,0 +1,23 @@
+[
+  [
+    "draw spear",
+    {
+      "draw": {
+        "target": {
+          "word": "spear"
+        }
+      }
+    }
+  ],
+  [
+    " dra  2.spear ",
+    {
+      "draw": {
+        "target": {
+          "word": "spear",
+          "index": "2"
+        }
+      }
+    }
+  ]
+]

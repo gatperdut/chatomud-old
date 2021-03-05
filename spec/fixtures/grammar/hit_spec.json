@@ -1,0 +1,34 @@
+[
+  [
+    "hit asinius",
+    {
+      "hit": {
+        "target": {
+          "word": "asinius"
+        }
+      }
+    }
+  ],
+  [
+    "   hit 2.wolf",
+    {
+      "hit": {
+        "target": {
+          "word": "wolf",
+          "index": "2"
+        }
+      }
+    }
+  ],
+  [
+    " hit 33.warg      ",
+    {
+      "hit": {
+        "target": {
+          "word": "warg",
+          "index": "33"
+        }
+      }
+    }
+  ]
+]

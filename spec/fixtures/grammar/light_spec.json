@@ -1,0 +1,48 @@
+[
+  [
+    "light lantern",
+    {
+      "light": {
+        "target": {
+          "word": "lantern"
+        }
+      }
+    }
+  ],
+  [
+    "  light   3.torch .",
+    {
+      "light": {
+        "target": {
+          "word": "torch",
+          "index": "3"
+        },
+        "ground": ""
+      }
+    }
+  ],
+  [
+    "  light   chimney . off ",
+    {
+      "light": {
+        "target": {
+          "word": "chimney"
+        },
+        "ground": "",
+        "off": "off"
+      }
+    }
+  ],
+  [
+    "  light   chimney . o ",
+    {
+      "light": {
+        "target": {
+          "word": "chimney"
+        },
+        "ground": "",
+        "off": "o"
+      }
+    }
+  ]
+]

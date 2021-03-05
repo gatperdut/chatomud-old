@@ -1,0 +1,34 @@
+[
+  [
+    "possess goblin",
+    {
+      "possess": {
+        "target": {
+          "word": "goblin"
+        }
+      }
+    }
+  ],
+  [
+    " poss 3.wolf",
+    {
+      "possess": {
+        "target": {
+          "word": "wolf",
+          "index": "3"
+        }
+      }
+    }
+  ],
+  [
+    " poss 111.demogorgon   ",
+    {
+      "possess": {
+        "target": {
+          "word": "demogorgon",
+          "index": "111"
+        }
+      }
+    }
+  ]
+]

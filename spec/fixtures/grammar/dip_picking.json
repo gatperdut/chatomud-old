@@ -1,0 +1,34 @@
+[
+  [
+    "dip 1.chalkbox",
+    {
+      "dip_picking": {
+        "target": {
+          "word": "chalkbox",
+          "index": "1"
+        }
+      }
+    }
+  ],
+  [
+    "   dip   666.chalkbox",
+    {
+      "dip_picking": {
+        "target": {
+          "word": "chalkbox",
+          "index": "666"
+        }
+      }
+    }
+  ],
+  [
+    "   dip    chalk____box   ",
+    {
+      "dip_picking": {
+        "target": {
+          "word": "chalk____box"
+        }
+      }
+    }
+  ]
+]

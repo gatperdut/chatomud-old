@@ -1,0 +1,42 @@
+[
+  [
+    "close north",
+    {
+      "close_door": {
+        "direction": {
+          "north": ""
+        }
+      }
+    }
+  ],
+  [
+    "  close south",
+    {
+      "close_door": {
+        "direction": {
+          "south": ""
+        }
+      }
+    }
+  ],
+  [
+    "close east   ",
+    {
+      "close_door": {
+        "direction": {
+          "east": ""
+        }
+      }
+    }
+  ],
+  [
+    "  close     down   ",
+    {
+      "close_door": {
+        "direction": {
+          "down": ""
+        }
+      }
+    }
+  ]
+]

@@ -1,0 +1,23 @@
+[
+  [
+    "wield spear",
+    {
+      "wield": {
+        "target": {
+          "word": "spear"
+        }
+      }
+    }
+  ],
+  [
+    " wield  2.spear ",
+    {
+      "wield": {
+        "target": {
+          "word": "spear",
+          "index": "2"
+        }
+      }
+    }
+  ]
+]

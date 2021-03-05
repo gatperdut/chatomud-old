@@ -1,0 +1,22 @@
+[
+  [
+    "sheath longsword",
+    {
+      "simple_sheathe": {
+        "target": {
+          "word": "longsword"
+        }
+      }
+    }
+  ],
+  [
+    " sheath   dagg ",
+    {
+      "simple_sheathe": {
+        "target": {
+          "word": "dagg"
+        }
+      }
+    }
+  ]
+]

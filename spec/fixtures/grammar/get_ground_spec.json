@@ -1,0 +1,57 @@
+[
+  [
+    "get flute",
+    {
+      "get_ground": {
+        "target": {
+          "word": "flute"
+        }
+      }
+    }
+  ],
+  [
+    "get 3.flute",
+    {
+      "get_ground": {
+        "target": {
+          "word": "flute",
+          "index": "3"
+        }
+      }
+    }
+  ],
+  [
+    "get 111.flute   ",
+    {
+      "get_ground": {
+        "target": {
+          "word": "flute",
+          "index": "111"
+        }
+      }
+    }
+  ],
+  [
+    "   get 3 sandwich   ",
+    {
+      "get_ground": {
+        "amount": "3",
+        "target": {
+          "word": "sandwich"
+        }
+      }
+    }
+  ],
+  [
+    "get   34    21.sandwich   ",
+    {
+      "get_ground": {
+        "amount": "34",
+        "target": {
+          "word": "sandwich",
+          "index": "21"
+        }
+      }
+    }
+  ]
+]

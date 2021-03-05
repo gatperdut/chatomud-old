@@ -1,0 +1,60 @@
+[
+  [
+    "drink waterskin",
+    {
+      "drink": {
+        "target": {
+          "word": "waterskin"
+        }
+      }
+    }
+  ],
+  [
+    " dri 21.barrel 382",
+    {
+      "drink": {
+        "target": {
+          "word": "barrel",
+          "index": "21"
+        },
+        "amount": "382"
+      }
+    }
+  ],
+  [
+    " drin    21.cup    382    ",
+    {
+      "drink": {
+        "target": {
+          "word": "cup",
+          "index": "21"
+        },
+        "amount": "382"
+      }
+    }
+  ],
+  [
+    " drin    21.chop  .   382    ",
+    {
+      "drink": {
+        "target": {
+          "word": "chop",
+          "index": "21"
+        },
+        "amount": "382",
+        "ground": ""
+      }
+    }
+  ],
+  [
+    " drink b 100",
+    {
+      "drink": {
+        "target": {
+          "word": "b"
+        },
+        "amount": "100"
+      }
+    }
+  ]
+]

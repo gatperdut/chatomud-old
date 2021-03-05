@@ -1,0 +1,45 @@
+[
+  [
+    "drop beer",
+    {
+      "drop": {
+        "target": {
+          "word": "beer"
+        }
+      }
+    }
+  ],
+  [
+    "  drop 3 2.egg",
+    {
+      "drop": {
+        "target": {
+          "word": "egg",
+          "index": "2"
+        },
+        "amount": "3"
+      }
+    }
+  ],
+  [
+    "   drop    mug   ",
+    {
+      "drop": {
+        "target": {
+          "word": "mug"
+        }
+      }
+    }
+  ],
+  [
+    "  drop  33   backpack   ",
+    {
+      "drop": {
+        "target": {
+          "word": "backpack"
+        },
+        "amount": "33"
+      }
+    }
+  ]
+]

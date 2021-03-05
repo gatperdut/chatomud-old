@@ -1,0 +1,26 @@
+[
+  [
+    "   spawn_npc gob_01",
+    {
+      "simple_spawn_npc": {
+        "npc_template_code": "gob_01"
+      }
+    }
+  ],
+  [
+    "  spawn_np h_i_witch_01",
+    {
+      "simple_spawn_npc": {
+        "npc_template_code": "h_i_witch_01"
+      }
+    }
+  ],
+  [
+    "   spawn_npc g____1_1   ",
+    {
+      "simple_spawn_npc": {
+        "npc_template_code": "g____1_1"
+      }
+    }
+  ]
+]

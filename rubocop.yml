@@ -1,0 +1,145 @@
+# .rubocop.yml
+
+AllCops:
+  TargetRubyVersion: 3.0
+  NewCops: enable
+
+  Include:
+    - "config.ru"
+    - "Gemfile"
+    - "Guardfile"
+    - "Rakefile"
+    - "app/**/*.rb"
+    - "config/**/*.rb"
+    - "lib/**/*.rb"
+    - "spec/**/*.rb"
+    - "db/seeds.rb"
+    - "db/seeds/**/*.rb"
+
+  Exclude:
+    - "bin/*"
+    - "db/schema.rb"
+    - "db/migrate/*"
+    - "log/**/*"
+    - "node_modules/**/*"
+    - "public/**/*"
+    - "script/**/*"
+    - "vendor/**/*"
+    - "tmp/**/*"
+    - ".git/**/*"
+    - "app/views/**/*"
+
+Layout/CaseIndentation:
+  Enabled: false
+
+Layout/ExtraSpacing:
+  Exclude:
+    - "db/seeds/tables/**/*.rb"
+
+Layout/HashAlignment:
+  Enabled: false
+
+Layout/IndentationConsistency:
+  EnforcedStyle: "normal"
+
+Layout/LineLength:
+  Enabled: false
+
+Layout/MultilineOperationIndentation:
+  Enabled: false
+
+Lint/DuplicateBranch:
+  Enabled: false
+
+Lint/EmptyWhen:
+  Enabled: false
+
+Lint/UnusedBlockArgument:
+  Enabled: false
+
+Metrics/AbcSize:
+  Enabled: false
+
+Metrics/BlockLength:
+  Enabled: false
+
+Metrics/BlockNesting:
+  Enabled: false
+
+Metrics/ClassLength:
+  Enabled: false
+
+Metrics/CyclomaticComplexity:
+  Enabled: false
+
+Metrics/MethodLength:
+  Enabled: false
+
+Metrics/ModuleLength:
+  Enabled: false
+
+Metrics/ParameterLists:
+  Enabled: false
+
+Metrics/PerceivedComplexity:
+  Enabled: false
+
+Naming/FileName:
+  Exclude:
+    - "Gemfile"
+    - "Guardfile"
+    - "Rakefile"
+
+Naming/PredicateName:
+  Enabled: false
+
+Naming/VariableNumber:
+  Enabled: false
+
+Style/AccessorGrouping:
+  Enabled: false
+
+Style/ConditionalAssignment:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+Style/EmptyMethod:
+  EnforcedStyle: "expanded"
+
+Style/FrozenStringLiteralComment:
+  EnforcedStyle: "never"
+
+Style/HashAsLastArrayItem:
+  EnforcedStyle: "no_braces"
+
+Style/IfInsideElse:
+  Enabled: false
+
+Style/IfUnlessModifier:
+  Enabled: false
+
+Style/OptionalBooleanParameter:
+  Enabled: false
+
+Style/RedundantAssignment:
+  Enabled: false
+
+Style/RedundantInterpolation:
+  Enabled: false
+
+Style/SoleNestedConditional:
+  AllowModifier: true
+
+Style/StringConcatenation:
+  Enabled: false
+
+Style/StringLiterals:
+  EnforcedStyle: "double_quotes"
+
+Style/SymbolArray:
+  Enabled: false
+
+Style/WordArray:
+  Enabled: false

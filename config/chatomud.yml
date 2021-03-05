@@ -1,0 +1,10 @@
+default: &base
+  redis_channel: <%= ENV['CM_REDIS_CHANNEL'] %>
+
+development:
+  <<: *base
+  socket_io_uri: 'localhost:3030'
+
+production:
+  <<: *base
+  socket_io_uri: <%= ENV['CM_SOCKET_IO_URI'] %>
